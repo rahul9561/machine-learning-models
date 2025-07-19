@@ -11,7 +11,7 @@ It covers fundamental to advanced techniques, including:
 
 ### 📌 Features
 - Well-documented and beginner-friendly code
-- Jupyter Notebooks with step-by-step explanations
+- Google Colab with step-by-step explanations
 - Real-world datasets for practice
 - Optimized for easy experimentation and learning
 
